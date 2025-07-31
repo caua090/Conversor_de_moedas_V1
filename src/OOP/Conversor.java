@@ -16,7 +16,8 @@ import com.google.gson.JsonParser;
 
 public class Conversor {
     public double valor;
-    private static final String API_KEY = "fxr_live_f0385e6b474b47c54ec1bdc2b8e50438f364";
+    //coloque sua chave da API é gratis
+    private static final String API_KEY = "SUA_API";
     public String moedaOrigem;
     public String moedaDestino;
 
